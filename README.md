@@ -1,3 +1,3 @@
-# Git-HUB
-Ejercicio Github, con comandos de git;
+# GitHUB
+Ejercicio GitHub, con comandos git;
 Hecho por Adrián Jimenez Llorens y Alejandro Marco sánchez 😎✌
